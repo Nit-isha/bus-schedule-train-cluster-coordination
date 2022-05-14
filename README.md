@@ -1,4 +1,6 @@
-# bus-schedule-train-cluster-coordination
+#Transfer optimisation of inter-city trains with bus service by schedule clustering for developing city.
+
+## bus-schedule-train-cluster-coordination
 
 - This project is made by taking data from city bus seva and Rail schedule of Raipur capital city of Chhattisgarh, India.
 - Rail schedule is clustered in 15 clusters starting from, 4:50 AM to 11:30PM. Each cluster is of nearly 1hour. Clustering is done simply the calculations.
